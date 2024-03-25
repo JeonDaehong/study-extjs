@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "column1": "치킨", "column2": "피자", "column3": "스파게티" },
+    { "column1": "버거", "column2": "샌드위치", "column3": "타코" },
+    { "column1": "초밥", "column2": "돈까스", "column3": "우동" },
+    { "column1": "커리", "column2": "나시고랭", "column3": "팟타이" },
+    { "column1": "팔라펠", "column2": "훔무스", "column3": "샤와르마" },
+    { "column1": "라멘", "column2": "소바", "column3": "덮밥" },
+    { "column1": "빵", "column2": "크루아상", "column3": "바게트" },
+    { "column1": "아이스크림", "column2": "젤라토", "column3": "셔벗" },
+    { "column1": "케이크", "column2": "타르트", "column3": "마카롱" },
+    { "column1": "스테이크", "column2": "리브", "column3": "햄버그 스테이크" }
+  ]
+}

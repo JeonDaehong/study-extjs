@@ -1,0 +1,20 @@
+{
+  "children" : [{
+    "text" : ".settings",
+    "expanded" : false,
+    "children" : [{
+      "text" : "catalina.policy",
+      "leaf" : true
+    }]
+  },{
+    "text" : "Tomcat v8.0 Server at localhost-config",
+    "expanded" : false,
+    "children" : [{
+      "text" : "catalina.properties",
+      "leaf" : true
+    }]
+  },{
+    "text" : ".project",
+    "leaf" : true
+  }]
+}
